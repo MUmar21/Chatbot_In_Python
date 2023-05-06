@@ -1,3 +1,5 @@
+# Muhammad Umar Saddiq
+# ID - 12126
 import random
 
 # Define a list of possible user inputs and their corresponding responses
